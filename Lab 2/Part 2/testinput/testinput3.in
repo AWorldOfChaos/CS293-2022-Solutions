@@ -1,0 +1,9 @@
+ADD Haryana 0.2 Bihar 0.36
+ADD Bihar 0.48 Rajasthan 0.84
+ADD Haryana 0.201 Rajasthan 0.76
+ADD Rajasthan 0.9 Bihar 1.6
+QUERY_JOURNEY Haryana 0.1 Rajasthan
+QUERY_JOURNEY Haryana 0.2004 Rajasthan
+QUERY_JOURNEY Haryana 0.205 Bihar
+QUERY_STATION HARYANA 1
+EXIT
