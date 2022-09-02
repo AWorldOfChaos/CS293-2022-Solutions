@@ -1,3 +1,3 @@
 Lab 3 Solutions
 ---
-Will be available soon
+Updated: 2nd September, 2022.
