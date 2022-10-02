@@ -1,3 +1,3 @@
 # Lab 6
 -----
-Will be uploaded soon
+Last Updated: 2/10/2022
