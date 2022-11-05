@@ -4,7 +4,7 @@ Solutions: Will be uploaded soon
 
 ## Testcases
 ---
-All the inputs and outputs have been added to the the testcases folder. The evaluation inputs are in the file adminEvalInputs.txt and to be used for all *five* testcases. The marks distribution across testcases is as follows:
+All the inputs and outputs have been added to the the testcases folder. The evaluation journey inputs are in the file adminEvalInputs.txt and to be used for all *five* testcases. The marks distribution across testcases is as follows:
 
 Testcase 0: 1.5  
 Testcase 1: 1.5  
