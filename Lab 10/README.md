@@ -10,6 +10,6 @@ Testcase 0: 1.5
 Testcase 1: 1.5  
 Testcase 2: 2.0  
 Testcase 3: 4.0  
-Testcase 4: 2.0   
+Testcase 4: 4.0   
 
 Missing correct journeys and printing incorrect journey is penalised appropriately.
