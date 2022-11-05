@@ -1,0 +1,20 @@
+Load the given adminEvalInputs.txt file using command 3 from admin
+user login.  
+Then login as user using user code 5 and ask for direct journeys between SOURCE STATION and
+DESTINATION STATION. Check the timings reported.
+
+For the above input, we have the following:
+
+Train 100 leaves SOURCE STATION at 1200 on Sun,Mon,Tue,Wed
+and arrives at DESTINATION STATION at 1500 on the same 4 days.
+Train 500 leaves SOURCE STATION at 1530 on Sun,Mon,Thu,Fri
+and arrives at DESTINATION STATION at 1200 on Mon,Tue,Fri,Sat
+Train 600 leaves SOURCE STATION at 900 on Sun,Mon,Thu,Fri
+and arrives at DESTINATION STATION at 1000 on Mon,Tue,Fri,Sat.
+
+
+Partial Marks For:
+For timings from SOURCE STATIONS that are *incorrect* but as follows:
+Train 100 leaves SOURCE STATION at 1330 on Sun,Mon,Tue,Wed
+Train 500 leaves SOURCE STATION at 1800 on Sun,Mon,Thu,Fri
+Train 600 leaves SOURCE STATION at 1030 on Sun,Mon,Thu,Fri

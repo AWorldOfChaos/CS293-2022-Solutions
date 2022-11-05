@@ -1,0 +1,9 @@
+Load the given adminEvalInputs.txt file using command 3 from admin
+user login.  
+Then login as user using user code 5 and ask for direct journeys between SOURCE STATION and
+DESTINATION STATION. 
+
+
+Answer:-
+There should be only 3 direct journeys possible:
+100, 500 and 600.
