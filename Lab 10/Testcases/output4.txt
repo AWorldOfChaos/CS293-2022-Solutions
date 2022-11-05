@@ -1,0 +1,57 @@
+There are a total of 5 journeys possible
+
+1 direct journey from NEW SOURCE STATION to NEW DESTINATION STATION
+
+1.
+1000 dep. NEW SOURCE STATION on each day of week at 830
+1000 arr. NEW DESTINATION STATION on each day of week at 1930
+
+2 journeys with 2 stop-overs each
+
+2.
+1000 dep. NEW SOURCE STATION on each day of week at 830
+1000 arr. STATION X on each day of week at 1000
+Transit at STATION X for 11 hrs on each day of week
+2000 dep. STATION X on each day of week at 2100
+2000 arr. NEW SOURCE STATION on each day of week at 2330
+Transit at NEW SOURCE STATION for 9 hrs
+1000 dep. NEW SOURCE STATION on each day of week at 830
+1000 arr. NEW DESTINATION STATION on each day of week at 1930
+
+3.
+1000 dep. NEW SOURCE STATION on each day of week at 830
+1000 arr. STATION Z on each day of week at 1730
+Transit at STATION Z for 13 hrs 30 mins on each day of week
+3000 dep. STATION Z on each day of week at 700
+3000 arr. STATION Y on each day of week at 930
+Transit at STATION Y for 7 hrs
+1000 dep. STATION Y on each day of week at 1630
+1000 arr. NEW DESTINATION STATION on each day of week at 1930
+
+2 journeys with 3 stop-overs each:
+
+4.
+1000 dep. NEW SOURCE STAION on each day of week at 830
+1000 arr. STATION Y on each day of week at 1600
+Transit at STATION Y for 17 hrs on each day of week
+5000 dep. STATION Y on each day of week at 900
+5000 arr. STATION W on each day of week at 1100
+Transit at STATION W for 8hrs 20mins on each day of week
+6000 dep. STATION W on each day of week at 1920
+6000 arr. STATION Y on each day of week at 2100
+Transit at STATION Y for 19hrs 30 mins on each day of week
+1000 dep. STATION Y on each day of week at 1630
+1000 arr. NEW DESTINATION STATION on each day of week at 1930
+
+5.
+1000 dep. NEW SOURCE STAION on each day of week at 830
+1000 arr. STATION Y on each day of week at 1600
+Transit at STATION Y for 17 hrs on each day of week
+5000 dep. STATION Y on each day of week at 900
+5000 arr. STATION U on each day of week at 1300
+Transit at STATION U for 4hrs on each day of week
+6000 dep. STATION U on each day of week at 1700
+6000 arr. STATION Y on each day of week at 2100
+Transit at STATION Y for 19hrs 30 mins on each day of week
+1000 dep. STATION Y on each day of week at 1630
+1000 arr. NEW DESTINATION STATION on each day of week at 1930

@@ -1,0 +1,69 @@
+This should yield a total of 10 journeys:
+
+3 direct journeys 100, 500, 600
+1. 
+Train 100 leaves SOURCE STATION at 1200 on Sun,Mon,Tue,Wed
+and arrives at DESTINATION STATION at 1500 on the same 4 days.
+
+2.
+Train 500 leaves SOURCE STATION at 1530 on Sun,Mon,Thu,Fri
+and arrives at DESTINATION STATION at 1200 on Mon,Tue,Fri,Sat
+
+3.
+Train 600 leaves SOURCE STATION at 900 on Sun,Mon,Thu,Fri
+and arrives at DESTINATION STATION at 1000 on Mon,Tue,Fri,Sat.
+
+5 Journeys with stop-overs at STATION M:
+
+4.
+100 dep. SOURCE STATION on Sun, Mon at 1200
+100 arr. STATION M on Sun, Mon at 1300
+Transit at STATION M for 4 hr 15 mins on Sun, Mon
+600 dep. STATION M on Sun, Mon at 1715
+600 arr. DESTINATION STATION on Mon, Tue at 1000
+
+5.
+100 dep. SOURCE STATION on Sun, Mon at 1200
+100 arr. STATION M on Sun, Mon at 1300
+Transit at STATION M for 4 hr 15  mins on Sun, Mon
+700 dep. STATION M on Sun, Mon at 1715
+700 arr. DESTINATION STATION on Sun, Mon at 2330
+
+6.
+200 dep. SOURCE STATION on Sun, Mon, Fri at 1300
+200 arr. STATION M on Sun, Mon, Fri at 1600
+Transit at STATION M for 1hr 15 mins on Sun, Mon, Fri
+600 dep. STATION M on Sun, Mon, Fri at 1715
+600 arr. DESTINATION STATION on Mon, Tue, Sat at 1000
+
+7.
+200 dep. SOURCE STATION on Sun, Mon, Fri at 1300
+200 arr. STATION M on Sun, Mon, Fri at 1600
+Transit at STATION M for 1 hr 15 mins on Sun, Mon, Fri
+700 dep. STATION M on Sun, Mon, Fri at 1715
+700 arr. DESTINATION STATION on Sun, Mon, Fri at 2330
+
+8.
+600 dep. SOURCE STATION on Sun, Mon, Thu, Fri at 900
+600 arr. STATION M on Sun, Mon, Thu, Fri at 1700
+Transit at Station M for 15 mins on Sun, Mon, Thu, Fri
+700 dep. STATION M on Sun, Mon, Thu, Fri at 1715
+700 arr. DESTINATION STATION on Sun, Mon, Thu, Fri at 2330
+
+1 journey with stop-over at STATION N:
+
+9.
+100 dep. SOURCE STATION on Sun, Mon, Wed at 1200
+100 arr. STATION N on Sun, Mon, Wed at 1400
+Transit at STATION N for 3 hrs on Sun, Mon, Wed
+200 dep. STATION M on Sun, Mon, Wed at 1700
+200 arr. DESTINATION STATION on Sun, Mon, Wed at 1900
+
+1 journey with stop-over at STATION F:
+
+10.
+600 dep. SOURCE STATION on Sun, Mon, Thu, Fri at 900
+600 arr. STATION F on Sun, Mon, Thu, Fri at 1400
+Transit at STATION F for 1 hr 30 mins on Sun, Mon, Thu, Fri
+700 dep. STATION F on Sun, Mon, Thu, Fri at 1530
+700 arr. DESTINATION STATION on Sun, Mon, Thu, Fri at 2330

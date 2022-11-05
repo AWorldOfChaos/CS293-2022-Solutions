@@ -1,0 +1,14 @@
+This should yield exactly 3 direct journeys
+100, 500 and 600 with the following details:
+
+1.
+Train 100 leaves SOURCE STATION at 1200 on Sun,Mon,Tue,Wed
+and arrives at DESTINATION STATION at 1500 on the same 4 days.
+
+2.
+Train 500 leaves SOURCE STATION at 1530 on Sun,Mon,Thu,Fri
+and arrives at DESTINATION STATION at 1200 on Mon,Tue,Fri,Sat
+
+3.
+Train 600 leaves SOURCE STATION at 900 on Sun,Mon,Thu,Fri
+and arrives at DESTINATION STATION at 1000 on Mon,Tue,Fri,Sat.

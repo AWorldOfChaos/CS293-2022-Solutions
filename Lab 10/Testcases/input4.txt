@@ -1,0 +1,4 @@
+Source station: NEW SOURCE STATION
+Destination station: NEW DESTINATION STATION
+Max no. of stop-overs = 3
+Max transit wait hours per stop-over = 23
