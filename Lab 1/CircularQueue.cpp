@@ -26,7 +26,7 @@ template <typename T> void DynamicQueue<T> :: grow()
             p[i]=A[j]; // Copying element by element into new array
         }
         head=0; // Setting head at 0
-        tail=i+1; // Setting tail at N + 1
+        tail=old+1; // Setting tail at N + 1
         delete[] A; // Freeing up older array
         A=p;
     }
