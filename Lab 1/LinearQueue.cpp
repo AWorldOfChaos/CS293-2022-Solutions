@@ -17,7 +17,7 @@ template <typename T> bool DynamicQueue<T> :: isEmpty()
 
 template <typename T> bool DynamicQueue<T> :: isFull()
 {
-    return size() == N;
+    return tail == N;
 }
 
 template <typename T> void DynamicQueue<T> :: grow()
